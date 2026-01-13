@@ -37,12 +37,12 @@ RF-DETR-Small was chosen as the optimal model variant due to lower memory requir
 | Early Stopping         | Enabled        |
 
 ## PERFORMANCE RESULT
-**mAP@50:** ~0.89
-**mAP@50–95:** ~0.75
-**Precision:** ~0.80
-**Recall:** ~1.00
+**mAP@50:** ~0.89 <br>
+**mAP@50–95:** ~0.75 <br>
+**Precision:** ~0.80 <br>
+**Recall:** ~1.00 <br>
 
-<img width="200" height="200" alt="pp" src="https://github.com/user-attachments/assets/3e5c4bee-aecc-4b79-9269-f8193d04a3ca" />
+<img width="300" height="300" alt="pp" src="https://github.com/user-attachments/assets/3e5c4bee-aecc-4b79-9269-f8193d04a3ca" />
 
 
 PER-CLASS SUMMARY
